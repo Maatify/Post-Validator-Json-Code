@@ -1,6 +1,6 @@
 # PostValidator
 
-maatify.dev post validator handler, known by our team
+maatify.dev post validator with JSON code handler, known by our team
 
 
 # Installation
