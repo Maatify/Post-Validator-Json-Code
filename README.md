@@ -1,4 +1,4 @@
-# PostValidator
+# PostValidatorJsonCode
 
 maatify.dev post validator with JSON code handler, known by our team
 
