@@ -1,0 +1,67 @@
+{
+    "name": "maatify/post-validator-json-code",
+    "description": "maatify.dev post validator with JSON code handler, known by our team",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": [
+        "PHP",
+        "maatify",
+        "POST",
+        "Email",
+        "Phone",
+        "validator",
+        "JSON",
+        "Json-Code",
+        "Code",
+        "Json-response",
+        "Response",
+        "Handler"
+    ],
+    "homepage": "https://github.com/Maatify/",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mohamed Abdulalim",
+            "email": "mohamed@maatify.dev",
+            "homepage": "https://www.maatify.com/",
+            "role": "Backend Developer"
+        },
+        {
+            "name": "Ahmed Fawzy",
+            "email": "a.fawzy@maatify.dev",
+            "homepage": "https://www.maatify.com/",
+            "role": "Frontend Developer"
+        },
+        {
+            "name": "Ahmed Abdullah",
+            "email": "a.abdullah@maatify.dev",
+            "homepage": "https://www.maatify.com/",
+            "role": "Android Developer"
+        },
+        {
+            "name": "Elmokhtar Ahmed",
+            "email": "mokhtar@maatify.dev",
+            "homepage": "https://www.maatify.com/",
+            "role": "IOS Developer"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.0.0"
+        }
+    },
+    "require": {
+        "maatify/json": "^1.0",
+        "maatify/functions": "^1.0",
+        "maatify/logger": "^1.0",
+        "daveearley/daves-email-validation-tool": "^1.2",
+        "giggsey/libphonenumber-for-php": "^8.13",
+        "maatify/json-code": "^1.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maatify\\PostValidatorMJC\\": "PostValidatorMJC/"
+        }
+    }
+}
