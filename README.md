@@ -4,13 +4,12 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/maatify/post-validator-json-code)][pkg-stats]
 [![Stars](https://img.shields.io/packagist/stars/maatify/post-validator-json-code)](https://github.com/maatify/post-validator-json-code/stargazers)
 
+[pkg]: <https://packagist.org/packages/maatify/post-validator-json-code>
+[pkg-stats]: <https://packagist.org/packages/maatify/post-validator-json-code/stats>
+
 # PostValidatorJsonCode
 
 maatify.dev post validator with JSON code handler, known by our team
-
-
-[pkg]: <https://packagist.org/packages/maatify/mailer>
-[pkg-stats]: <https://packagist.org/packages/maatify/mailer/stats>
 
 
 # Installation
